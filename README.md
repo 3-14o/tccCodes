@@ -11,12 +11,15 @@
 - DyHead 
 
 ## TODO steps list:
-- :white_check_mark: Create a good bibliography set
+                                                                                    :repeat: = On going
+                                                                                    :no_entry_sign: = Aborted
+                                                                                    :white_check_mark: = Done
+- :repeat: Create a good bibliography set
 - :no_entry_sign: Well understand CNN 
 - :no_entry_sign: Create CNN, train it and test it
 - :no_entry_sign: Apply CNN with fully-connected NNs to finally detect objects
-- :white_check_mark: Read articles to see what's being made nowadays
-- :white_check_mark: Read the DyHead (it's the better NN today)
+- :repeat: Read articles to see what's being made nowadays
+- :repeat: Read the DyHead (it's the better NN today)
 
 ## Important points to follow
 - Perform ablation study (turn off some parts and verify what happens, if it really is what it should be)
