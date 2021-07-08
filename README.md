@@ -11,9 +11,13 @@
 - DyHead 
 
 ## TODO steps list:
-                                                                                    :repeat: = On going
-                                                                                    :no_entry_sign: = Aborted
-                                                                                    :white_check_mark: = Done
+  Legend:
+
+  :repeat: = On going
+
+  :no_entry_sign: = Aborted
+
+  :white_check_mark: = Done
 - :repeat: Create a good bibliography set
 - :no_entry_sign: Well understand CNN 
 - :no_entry_sign: Create CNN, train it and test it
