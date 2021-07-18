@@ -4,11 +4,17 @@
 - All codes in-development and necessaries to project
 - NWPU VHR-10 and SAR ship detection dataset (SSDD) data sets are not present here, because of their size. However, they can be respectively found at: https://drive.google.com/open?id=1--foZ3dV5OCsqXQXT84UeKtrAqc5CkAE and https://drive.google.com/file/d/1grDw3zbGjQKYPjOxv9-h4WSUctoUvu1O/view?usp=sharing
 
+## Latex to write about this work
+- https://www.overleaf.com/read/fpfbkkjrmbnb
+
 ## Bibliography (In articles folder)
-- Fast R-CNN
-- Feature Pyramid Networks for Object Detection
-- Faster R-CNN
-- DyHead 
+Books:
+  - Deep Learning by Goodfellow
+Articles:
+  - Fast R-CNN
+  - Feature Pyramid Networks for Object Detection
+  - Faster R-CNN
+  - DyHead 
 
 ## TODO steps list:
   Legend:
@@ -37,8 +43,23 @@
 - Detectron 2 https://github.com/facebookresearch/detectron2
 - DyHead 
 
+## Youtube videos
+- https://www.youtube.com/watch?v=dichIcUZfOw&t=2s&ab_channel=Hedu-MathofIntelligence
+- https://www.youtube.com/watch?v=TQQlZhbC5ps&t=1s&ab_channel=CodeEmporium
+- https://www.youtube.com/watch?v=m8pOnJxOcqY&ab_channel=CodeEmporium
+- https://www.youtube.com/watch?v=W2rWgXJBZhU&ab_channel=CodeEmporium
+
 ## DyHead conclusion
 - Usually we have 2 parts in a NN (backbone and heads)
 - Backbone: feature extraction
 - Heads: use the features to classify
 - A good head is capable of scale, spacial and task awareness, it used to be separeted
+
+## Convolutive Neural Networks (CNNs)
+Several filters, pass them through image and will have the response to this filters. First layers is understandable, e.g.: [1 1 0; 1 0 0; 0 0 0] is searching for curves.
+However, going more deeply it becomes unnatural to our brian. It extracts harsh features. Convolution has a property of interpretion 
+
+
+## Transform method
+
+### Attention heads (as seen in DyHead)
