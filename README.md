@@ -10,6 +10,7 @@
 ## Bibliography (In articles folder)
 Books:
   - Deep Learning by Goodfellow
+
 Articles:
   - Fast R-CNN
   - Feature Pyramid Networks for Object Detection
@@ -48,6 +49,13 @@ Articles:
 - https://www.youtube.com/watch?v=TQQlZhbC5ps&t=1s&ab_channel=CodeEmporium
 - https://www.youtube.com/watch?v=m8pOnJxOcqY&ab_channel=CodeEmporium
 - https://www.youtube.com/watch?v=W2rWgXJBZhU&ab_channel=CodeEmporium
+
+## TCC1's Doubts
+- Tema: aplicações de NN à localização de objetos, sendo explicitamente voltado à imagens SAR e detecção de barcos
+- Continuar escrevendo GIT, códigos e relatório em ingles?
+- Escopo: gerar uma conslusão das principais dificuldades e principais métodos (principalmente do estado da arte)
+- Finalmente, definir a abordagem para o TCC2. TCC1 é realmente mais teorico e TCC2 mais prático. Começar a escrever relatório para ser utilizado com TCC2, mas precisa entregar algum no final?
+
 
 ## DyHead conclusion
 - Usually we have 2 parts in a NN (backbone and heads)
