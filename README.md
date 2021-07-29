@@ -22,12 +22,13 @@ Articles:
 
   :repeat: = On going
 
-  :no_entry_sign: = Aborted
+  :no_entry_sign: = Stopped
 
   :white_check_mark: = Done
+  
 - :repeat: Create a good bibliography set
-- :no_entry_sign: Well understand CNN 
-- :no_entry_sign: Create CNN, train it and test it
+- :white_check_mark: Well understand CNN 
+- :repeat: Create CNN, train it and test it
 - :no_entry_sign: Apply CNN with fully-connected NNs to finally detect objects
 - :repeat: Read articles to see what's being made nowadays
 - :repeat: Read the DyHead (it's the better NN today)
@@ -52,7 +53,7 @@ Articles:
 
 ## TCC1's Doubts
 - Tema: aplicações de NN à localização de objetos, sendo explicitamente voltado à imagens SAR e detecção de barcos
-- Continuar escrevendo GIT, códigos e relatório em ingles?
+- Continuar escrevendo GIT, códigos e relatório em inglês?
 - Escopo: gerar uma conslusão das principais dificuldades e principais métodos (principalmente do estado da arte)
 - Finalmente, definir a abordagem para o TCC2. TCC1 é realmente mais teorico e TCC2 mais prático. Começar a escrever relatório para ser utilizado com TCC2, mas precisa entregar algum no final?
 
