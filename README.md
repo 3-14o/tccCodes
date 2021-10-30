@@ -17,6 +17,15 @@ Articles:
   - Faster R-CNN
   - DyHead 
 
+Medium articles:
+  - R-CNN review: https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9
+  - Yolos review: https://jonathan-hui.medium.com/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
+  - Yolos v1,v2,v3: https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
+  - Big object detector comparasion: https://jonathan-hui.medium.com/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359
+  - Yolo v4, v5, PP: https://towardsdatascience.com/yolo-v4-or-yolo-v5-or-pp-yolo-dad8e40f7109
+  - PANet: https://medium.com/clique-org/panet-path-aggregation-network-in-yolov4-b1a6dd09d158
+  - 
+
 ## TODO steps list:
   Legend:
 
